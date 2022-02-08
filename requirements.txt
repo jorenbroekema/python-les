@@ -1,0 +1,5 @@
+mysql-connector-python==8.0.28
+protobuf==3.19.4
+pandas==1.4.0
+requests==2.27.1
+beautifulsoup4==4.10.0
